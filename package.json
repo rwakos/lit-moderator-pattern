@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "es-dev-server": "^2.1.0",
+    "lit": "^2.5.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  }
+}
