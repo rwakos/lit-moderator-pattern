@@ -1,6 +1,6 @@
 # lit-moderator-pattern
 
-Moderator patter for communication between LitHtml components
+Moderator pattern for communication between LitHtml components
 
 ## Install
 
